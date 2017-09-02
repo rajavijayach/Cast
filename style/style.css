@@ -1,0 +1,40 @@
+.companyHeader{
+    box-shadow: 0px 1px 5px #B8B8B8; 
+    -webkit-box-shadow: 0px 1px 5px #B8B8B8; 
+    -moz-box-shadow: 0px 1px 5px #B8B8B8; 
+}
+
+.companyHeaderTitle{
+    text-align: center;
+    padding: 20px;
+    color: #5cb85c;
+}
+
+.techListHolder{
+    margin-top: 25px;
+}
+
+.techItemHolder{
+    margin-bottom: 20px!important;
+    border-radius: 10px;
+}   
+.techItemHolder:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 11px #ADADAD; 
+    -webkit-box-shadow: 1px 1px 11px #ADADAD; 
+    -moz-box-shadow: 1px 1px 11px #ADADAD; 
+  
+}
+a:hover{
+    text-decoration: none !important;
+}
+.techItemTitle{
+    font-size: 1.5em;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.techItemHolder section {
+    padding-left: 15px;
+}
+.techItemDescription{
+}
